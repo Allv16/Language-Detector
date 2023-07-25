@@ -1,0 +1,28 @@
+{
+  "name": "languagedetector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allv16/Language-Detector.git"
+  },
+  "keywords": [
+    "language",
+    "detector"
+  ],
+  "author": "Allv16",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allv16/Language-Detector/issues"
+  },
+  "homepage": "https://github.com/Allv16/Language-Detector#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "franc": "^5.0.0",
+    "langs": "^2.0.0"
+  }
+}
